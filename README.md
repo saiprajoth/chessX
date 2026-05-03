@@ -1,4 +1,4 @@
-<img width="1680" height="926" alt="landing-chessx" src="https://github.com/user-attachments/assets/d15a86bf-97b2-4bb7-aa89-ce1c978ca71a" /># ChessX
+# ChessX
 
 ChessX is real-time mutliplayer chess platform built for resilience, fair play and observability.
 

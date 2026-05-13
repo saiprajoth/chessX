@@ -1,8 +1,7 @@
 
-# ChessX 
+# ChessX <img width="17.4" height="25" alt="chessx-logo" src="https://github.com/user-attachments/assets/d204d00d-2afe-4972-bc7c-1dc68240b7a9" /> 
 
 ChessX is real-time mutliplayer chess platform built for resilience, fair play and observability.
-
 
 ## LIVE LINK & DEMO : 
 
